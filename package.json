@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.trustablelootboxseedlotterysystem",                              
+  "displayName": "Trustable Loot Box Seed Lottery System",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Trustable seed lottery system based on participation to a commun goal with a loot box visual effect.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2021_09_14_LootBoxExample.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
